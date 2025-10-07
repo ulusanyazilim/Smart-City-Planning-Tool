@@ -1,0 +1,43 @@
+# API Keys (IMPORTANT - DO NOT COMMIT)
+api/config.php
+
+# Flutter build outputs
+scpt/build/
+scpt/.dart_tool/
+scpt/.flutter-plugins
+scpt/.flutter-plugins-dependencies
+scpt/.packages
+scpt/.pub-cache/
+scpt/.pub/
+scpt/ios/Flutter/.last_build_id
+scpt/macos/Flutter/ephemeral/
+scpt/windows/flutter/ephemeral/
+scpt/linux/flutter/ephemeral/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Windows build artifacts
+SCPT_Windows_Portable/
+*.zip
+
+# APK builds
+*.apk
+*.aab
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.tmp
+*.temp
+.env
+.env.local

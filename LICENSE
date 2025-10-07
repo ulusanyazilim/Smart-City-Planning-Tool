@@ -1,0 +1,87 @@
+MIT License
+
+Copyright (c) 2025 Aksehir Explorers - NASA Space Apps Challenge 2025
+
+Team Members:
+- Betül Taş (Team Owner & Project Manager)
+- Osman Taş (Full Stack Developer)
+- Mehmet Ali Uluşan (Data Analyst & NASA API Integration)
+- Zeynep AKTOP (UI/UX Designer & Frontend Developer)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+THIRD-PARTY LICENSES AND ATTRIBUTIONS:
+
+1. NASA API Data
+   - Source: NASA Open Data Portal (https://api.nasa.gov/)
+   - License: NASA Open Data Policy
+   - APIs Used: FIRMS, MODIS NDVI, NASA POWER, SMAP
+   - Attribution: Data provided by NASA's Earth Observing System Data and Information System (EOSDIS)
+
+2. Google Gemini AI
+   - Source: Google AI Studio
+   - License: Google AI Terms of Service
+   - Usage: AI-powered report generation
+
+3. OpenStreetMap
+   - Source: OpenStreetMap Contributors
+   - License: Open Database License (ODbL)
+   - Usage: Map tiles and static map images
+
+4. Flutter Framework
+   - Copyright: Google LLC
+   - License: BSD 3-Clause License
+   - Usage: Cross-platform mobile and desktop development
+
+5. Leaflet.js
+   - Copyright: Vladimir Agafonkin
+   - License: BSD 2-Clause License
+   - Usage: Interactive web maps
+
+6. OpenElevation API
+   - Source: OpenElevation Project
+   - License: Open Data
+   - Usage: Elevation/topography data
+
+---
+
+DISCLAIMER:
+
+This project was developed for the NASA Space Apps Challenge 2025.
+The analysis and recommendations provided by this software are based on
+publicly available NASA satellite data and should be used for informational
+and educational purposes only.
+
+Urban planning decisions should always involve professional consultation
+with qualified urban planners, engineers, and relevant authorities.
+
+NASA, Google, and other mentioned organizations do not endorse this project
+and are not responsible for any decisions made based on this software's output.
+
+---
+
+For more information about this project:
+https://www.spaceappschallenge.org/2025/find-a-team/aksehir-explorers/
+
+Project Name: SCPT - Smart City Planning Tool (Akıllı Şehir Planlama Aracı)
+Challenge: Urban Planning with Earth Observation Data
+Location: Aksehir, Turkey
+Year: 2025

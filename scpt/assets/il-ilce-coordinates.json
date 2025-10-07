@@ -1,0 +1,57 @@
+{
+  "Konya": {
+    "lat": 37.8667,
+    "lon": 32.4833,
+    "districts": {
+      "Akşehir": {"lat": 38.3575, "lon": 31.4164},
+      "Ereğli": {"lat": 37.5137, "lon": 34.0478},
+      "Karatay": {"lat": 37.8667, "lon": 32.4833},
+      "Meram": {"lat": 37.8667, "lon": 32.4833},
+      "Selçuklu": {"lat": 37.8667, "lon": 32.4833}
+    }
+  },
+  "Ankara": {
+    "lat": 39.9334,
+    "lon": 32.8597,
+    "districts": {
+      "Çankaya": {"lat": 39.9180, "lon": 32.8619},
+      "Keçiören": {"lat": 39.9867, "lon": 32.8564},
+      "Mamak": {"lat": 39.9192, "lon": 32.9189},
+      "Sincan": {"lat": 39.9664, "lon": 32.5764},
+      "Yenimahalle": {"lat": 39.9858, "lon": 32.7858}
+    }
+  },
+  "İstanbul": {
+    "lat": 41.0082,
+    "lon": 28.9784,
+    "districts": {
+      "Kadıköy": {"lat": 40.9833, "lon": 29.0333},
+      "Beşiktaş": {"lat": 41.0422, "lon": 29.0069},
+      "Üsküdar": {"lat": 41.0253, "lon": 29.0122},
+      "Beyoğlu": {"lat": 41.0344, "lon": 28.9778},
+      "Fatih": {"lat": 41.0192, "lon": 28.9497}
+    }
+  },
+  "İzmir": {
+    "lat": 38.4237,
+    "lon": 27.1428,
+    "districts": {
+      "Konak": {"lat": 38.4189, "lon": 27.1289},
+      "Karşıyaka": {"lat": 38.4622, "lon": 27.0961},
+      "Bornova": {"lat": 38.4697, "lon": 27.2064},
+      "Buca": {"lat": 38.3917, "lon": 27.1844},
+      "Çeşme": {"lat": 38.3233, "lon": 26.3028}
+    }
+  },
+  "Antalya": {
+    "lat": 36.8969,
+    "lon": 30.7133,
+    "districts": {
+      "Muratpaşa": {"lat": 36.8813, "lon": 30.7378},
+      "Kepez": {"lat": 36.9215, "lon": 30.6904},
+      "Konyaaltı": {"lat": 36.8881, "lon": 30.6398},
+      "Alanya": {"lat": 36.5437, "lon": 31.9948},
+      "Manavgat": {"lat": 36.7867, "lon": 31.4436}
+    }
+  }
+}
