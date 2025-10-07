@@ -373,8 +373,8 @@ async function startAnalysis() {
             .map(([key, val]) => `weight_${key}=${val}`)
             .join('&');
 
-        // Call API (check if we're in subdirectory or root)
-        const apiPath = window.location.pathname.includes('/nsa/') ? 'api/urban-planning.php' : '/api/urban-planning.php';
+        // Call API with relative path (from js/ to api/)
+        const apiPath = '../api/urban-planning.php';
         const response = await fetch(`${apiPath}?action=analyze&lat=${lat}&lon=${lon}&area_size=${areaSize}&${weightsQuery}`);
         const data = await response.json();
 
@@ -555,7 +555,7 @@ async function generateAIReport() {
     aiReportBtn.disabled = true;
 
     try {
-        const apiPath = window.location.pathname.includes('/nsa/') ? 'api/gemini-report.php' : '/api/gemini-report.php';
+        const apiPath = '../api/gemini-report.php';
         const response = await fetch(apiPath, {
             method: 'POST',
             headers: {

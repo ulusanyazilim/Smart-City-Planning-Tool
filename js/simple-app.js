@@ -1,7 +1,7 @@
 // Basit ve Profesyonel Gökyüzü Gözlem Uygulaması
 class SkyObservatoryApp {
     constructor() {
-        this.baseURL = window.location.origin + '/nsa/api/';
+        this.baseURL = '../api/';
         this.map = null;
         this.marker = null;
         this.currentLocation = null;
