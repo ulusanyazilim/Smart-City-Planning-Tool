@@ -1,7 +1,7 @@
 // Advanced Sky Observatory App with Community Features
 class AdvancedSkyApp {
     constructor() {
-        this.baseURL = '../api/';
+        this.baseURL = 'api/';
         this.map = null;
         this.markers = [];
         this.currentLocation = null;

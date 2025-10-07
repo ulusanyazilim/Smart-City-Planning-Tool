@@ -1,7 +1,7 @@
 // Main Application Logic
 class SkyObservatoryApp {
     constructor() {
-        this.baseURL = '../api/';
+        this.baseURL = 'api/';
         this.currentCity = null;
         this.currentDate = new Date();
         this.skyData = null;
